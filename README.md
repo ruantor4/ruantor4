@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ruan Torquato and I'm a a Support Analyst, from PR, Brazil 🇧🇷.</p>
+<p align="left">My name is Ruan Torquato and I'm a Support Analyst, from PR, Brazil 🇧🇷.</p>
 
 ###
 
