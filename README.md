@@ -17,11 +17,11 @@
 ###
 
 <div align="left" style="display: flex; gap: 10px; justify-content: center;">
-  <a href="https://www.linkedin.com/in/ruantor4" rel="nofollow">
+  <a href="https://www.linkedin.com/in/ruantor4" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="#">
+  <a href="https://www.instagram.com/ruan.tor4/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
