@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Support Analyst<br>📚 I'm currently learning<br>🎯 Goals: Java Developer<br> </p>
+<p align="left">✨ Support Analyst<br>📚 I'm currently learning<br>🎯 Goals: Software Developer<br> </p>
 
 ###
 
