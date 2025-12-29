@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi, I'm Ruan Torquato</h1>
 
 ###
 
-<p align="left">My name is Ruan Torquato and I'm a Support Analyst, from PR, Brazil 🇧🇷.</p>
+<p align="left">I'm a Software Developer focused on Backend and Data, based in PR, Brazil 🇧🇷.</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Support Analyst<br>📚 I'm currently learning<br>🎯 Goals: Software Developer<br> </p>
+<p align="left">Software Developer with experience in backend development, data pipelines and applied machine learning projects.<br>I work on building backend applications, integrating data analysis and predictive models into production-ready systems.<br>Background in Linux environments, Docker and system integration, with a strong focus on clean code, modular architecture and continuous learning.<br> </p>
 
 ###
 
@@ -21,19 +21,24 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -53,7 +58,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ruan-torquato-240923a3/" target="_blank">
+  <a href="https://www.linkedin.com/in/ruantor4/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/ruan.tor4/" target="_blank">
